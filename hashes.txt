@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Zaman El Ghadar
+
+This log tracks the cryptographic history and versioning for the song **Zaman El Ghadar** (zaman-el-ghadar).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T01:36:34.998337 | `v1` | `ab7d09fe170eb158b207476553254a89dac7a1bc29b3c1282019596c21d2c323` | `942a2930516c2bdbbbe1192588337034316e99b441a6e7a3652e599e4904696d` | `2026-05-09_zaman-el-ghadar-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
